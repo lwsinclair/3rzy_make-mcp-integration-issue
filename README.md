@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-3rzy-make-mcp-integration-issue-badge.png)](https://mseep.ai/app/mcp-mirror-3rzy-make-mcp-integration-issue)
+
 # Problem integracji Make z Claude poprzez MCP
 
 ## Opis problemu
